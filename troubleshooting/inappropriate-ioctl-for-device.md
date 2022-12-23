@@ -7,6 +7,6 @@ avrdude -p m8 -c avrispv2 -F
 ```
 
 Error is thrown because 
-- you have choosen wrong programmer avrispv2 instead of avrisp2
+- you have choosen wrong programmer, e.g. avrispv2 instead of avrisp2
 - or you have choosen wrong interface via `avrdude -P /dev/ttyxxx ...`
 
