@@ -35,6 +35,9 @@ avrdude -c avrisp2 -p  m8 -n  -e -U flash:w:atmega8xxx/src/blink.hex
 avrdude -c avrisp2 -p  m8 -e -U flash:w:atmega8xxx/src/blink.hex
 ```
 
+## troubleshooting 
+check out folder [troubleshooting](https://github.com/GiancarloRizzo/avr-programmer/blob/master/troubleshooting/)
+
 ## links
 - [http://avr-programmer.com/](http://avr-programmer.com/)
 - [https://www.kollino.de/arduino/yikes-invalid-device-signature-da-brennen-mir-die-sicherungen-durch/](https://www.kollino.de/arduino/yikes-invalid-device-signature-da-brennen-mir-die-sicherungen-durch/)
