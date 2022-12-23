@@ -7,7 +7,7 @@ sudo apt install avrdude avr-gcc -y
 
 ## wiring
 - connect necessary pins from 6-pin or 10-pin male-header according to the pinout in the according pdf
-- make sure you set the jumpers correct. check [all-avr.pdf](https://github.com/GiancarloRizzo/avr-programmer/all-avr_installation_de_en.pdf)
+- make sure you set the jumpers correct. check [all-avr.pdf](https://github.com/GiancarloRizzo/avr-programmer/blob/master/all-avr_installation_de_en.pdf)
 
 ## programming-example for atmega8
 
