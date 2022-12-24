@@ -10,6 +10,6 @@ int main (void)
 	while(1) 
 	{
 		PORTB ^= _BV(PB0);
-		_delay_ms(2000);
+		_delay_ms(1000);
 	}
 }
